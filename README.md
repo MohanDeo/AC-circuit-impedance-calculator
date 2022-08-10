@@ -1,0 +1,2 @@
+# AC-circuit-impedance-calculator
+Code was written in C++ 17 making use of polymorphism and inheritance to calculate the impedance of AC circuits. This involved recursive functions to allow for nested circuits to be created. Memory management was handled by the use of shared pointers. Resistors, capacitors and inductors (as well as their non-ideal counterparts) could be added to the AC circuit. Circuit diagrams can also be printed to the terminal. The impedance results from the program show strong agreement with calculations using other methods.
